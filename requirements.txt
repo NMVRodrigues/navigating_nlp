@@ -1,3 +1,4 @@
+transformers[torch]
 transformers[sentencepiece]
 jupyterlab
 datasets
